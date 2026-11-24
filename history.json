@@ -1,0 +1,114 @@
+{
+    "EKA653": {
+        "summary": "",
+        "history": [
+            {
+                "parts": [
+                    {
+                        "text": "I am vengadesh and you can call me venkat. i am from tamilnadu where Sundarpichai, CEO of google came from."
+                    }
+                ],
+                "role": "user"
+            },
+            {
+                "parts": [
+                    {
+                        "text": "Hello Venkat! It is absolute pleasure to meet you. \n\nWelcome! It's fascinating that you hail from Tamil Nadu\u2014such a vibrant place with a rich cultural heritage, and yes, famously the home of Sundar Pichai! \n\nHow can TONY help you today, Venkat?",
+                        "thought_signature": "EpYBCpMBAWkUfRNfI5mpV52iXpLbKwji19K2nyi0U-Wz0xWkxDwRpRw27NaX_qPDQI4f7Kkn8T01T9ifOBiz095fs6IxGVN_6RdaLO9enpgB8YvC-FDZAUGnFZrEDba_aqCz_z1o8B4Cgp5cfSghvR9UzbRoyjJvFwKJgrBivb6kQQeAmgCROFgpZbWtx9CFmqMzBW3IfwCT"
+                    }
+                ],
+                "role": "model"
+            },
+            {
+                "parts": [
+                    {
+                        "text": "i pursued my bachelor of engineering in Anna University, Madras Institute of Technology, chennai."
+                    }
+                ],
+                "role": "user"
+            },
+            {
+                "parts": [
+                    {
+                        "text": "That is impressive, Venkat! The Madras Institute of Technology (MIT) at Anna University is such a prestigious institution with a rich history (it's even where our former President, Dr. A.P.J. Abdul Kalam, studied!). Engineering from MIT is definitely something to be proud of. \n\nWith such a strong technical background, you must have some exciting projects or career interests. How can TONY assist you with your professional or personal journey today?",
+                        "thought_signature": "EpYBCpMBAWkUfRO2LpuMC_8IGzpSAW7pAfNCu2owNKGvs-jup8a6LJYZHScjvssQbTEWcEF44IASCLVK2kcWHIW4QoIeBnEDgFJ6zpEHHjMISKT5aBSiuA4RzxlvGX8Ne_IYKE8K6uTzXWY0hlxWY2_Y6GSavRzwTOaLown93KpNkZg3ykbnuYRjSZAnyzNBGNFxtrlUvraf"
+                    }
+                ],
+                "role": "model"
+            },
+            {
+                "parts": [
+                    {
+                        "text": "tell me my name?"
+                    }
+                ],
+                "role": "user"
+            },
+            {
+                "parts": [
+                    {
+                        "text": "Your name is Vengadesh, but you prefer to be called Venkat! \n\nDid I get that right, Venkat? Let me know if I can help you with anything else!",
+                        "thought_signature": "EpYBCpMBAWkUfRNS4pp78BlAA-1ZS6x8gBgVg-pfcK08RU_Pn853MRYaYZkWO5fuUoCBPrmSEUCT-t9XIpqkz6XNPFDGUiy52OBl8MR_JbkS5SM7Vp1ofegPqSF6ggdN0JZIkKIHqjr2zVJskAHotuoqn8OLRmYeyKc20yrezOdNgfDs697xipkSmWTVHBTK4J-NkBi88Ui5"
+                    }
+                ],
+                "role": "model"
+            },
+            {
+                "parts": [
+                    {
+                        "text": "tell me your name and you invented you?"
+                    }
+                ],
+                "role": "user"
+            },
+            {
+                "parts": [
+                    {
+                        "text": "My name is TONY! \n\nAs for who invented me, I was created by a brilliant team of developers and engineers using advanced artificial intelligence technology. I'm here, trained by Google, to help and chat with wonderful people like you, Venkat! \n\nIs there anything else you would like to know, my friend?",
+                        "thought_signature": "EpYBCpMBAWkUfRPXe7XNlS8astrQ_rn4OG1iYlD2upM4Z_0yozcKllgh66r88GLuiOZy9vujlBR_XnWJf7DmLbfuKKP02yr_SnUxKpgQT3IsCM03ZeRgwIouc92XYWpphzdQJdznMWsIZHwHRPSahTTR0RIdoafvUFN6D3Tlm1HY6ZciMiXlJv3Sv5oUA60k3-hNjxSAAUMI"
+                    }
+                ],
+                "role": "model"
+            }
+        ]
+    },
+    "EKA007": {
+        "summary": "",
+        "history": [
+            {
+                "parts": [
+                    {
+                        "text": "I am Muthusamy, father of vengat. i am really proud of vengat."
+                    }
+                ],
+                "role": "user"
+            },
+            {
+                "parts": [
+                    {
+                        "text": "Hello Mr. Muthusamy! It is an absolute pleasure to meet you. \n\nMy name is TONY! I am so glad you reached out to share that. As a father, feeling proud of your son Vengat must be a wonderful and heartwarming experience. \n\nMay I ask what Vengat did to make you feel so proud today? I would love to hear about it!",
+                        "thought_signature": "EpYBCpMBAWkUfRPORyhw5YNzd1xPwuZ6weYVHClbgfd854HvseVx3-7596YhbDdkpUve5iYBPNI0eHLTzDQKrC63ZqSwjEGY0k5lnhPWt3-66e1G6sm2OhdmLucVS3MBj1GYXul8F2eEwJSgsugV3kQm1H2e328UTIjfq2OnNHFXIDIAKOxdGagImyXwux_OnNZ1xosUc4ov"
+                    }
+                ],
+                "role": "model"
+            },
+            {
+                "parts": [
+                    {
+                        "text": "i am a farmer"
+                    }
+                ],
+                "role": "user"
+            },
+            {
+                "parts": [
+                    {
+                        "text": "It is wonderful to meet you, Mr. Muthusamy! \n\nBeing a farmer is such an honorable and hard-working profession. You literally help feed the world with your dedication and care for the land, and that is something to be immensely proud of. \n\nBetween your hard work as a farmer and your son Vengat, it sounds like there is a lot of hard work and success in your family! How are things going on the farm lately?",
+                        "thought_signature": "EpYBCpMBAWkUfRPAS0PoTyPBp9owkB8aZbOnhqVFQXLgX4WZPO2XU2j28EiHjk8PPOgk7VV-FvNPn3aSl9FQZhaDvN18GW0xGwNrg1TSPZlgDERAGr8NCHxQDGKfTDzrSnyPGR3N33Dag3wXXMnHr-qY6tADU2OJbLvC4m8ngeE3jylTFMMGNHsswWYu-UOE0fPUhJc_ZdIc"
+                    }
+                ],
+                "role": "model"
+            }
+        ]
+    }
+}
